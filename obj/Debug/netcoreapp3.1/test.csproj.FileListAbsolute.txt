@@ -1,0 +1,26 @@
+C:\Users\Marcu\Desktop\Systemutveckling\test\bin\Debug\netcoreapp3.1\test.exe
+C:\Users\Marcu\Desktop\Systemutveckling\test\bin\Debug\netcoreapp3.1\test.deps.json
+C:\Users\Marcu\Desktop\Systemutveckling\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+C:\Users\Marcu\Desktop\Systemutveckling\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+C:\Users\Marcu\Desktop\Systemutveckling\test\bin\Debug\netcoreapp3.1\test.dll
+C:\Users\Marcu\Desktop\Systemutveckling\test\bin\Debug\netcoreapp3.1\test.pdb
+C:\Users\Marcu\Desktop\Systemutveckling\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+C:\Users\Marcu\Desktop\Systemutveckling\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+C:\Users\Marcu\Desktop\Systemutveckling\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+C:\Users\Marcu\Desktop\Systemutveckling\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+C:\Users\Marcu\Desktop\Systemutveckling\test\obj\Debug\netcoreapp3.1\test.dll
+C:\Users\Marcu\Desktop\Systemutveckling\test\obj\Debug\netcoreapp3.1\test.pdb
+C:\Users\Marcu\Desktop\Systemutveckling\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache
+C:\Users\Marcu\Desktop\Systemutveckling\År 1\test\bin\Debug\netcoreapp3.1\test.exe
+C:\Users\Marcu\Desktop\Systemutveckling\År 1\test\bin\Debug\netcoreapp3.1\test.deps.json
+C:\Users\Marcu\Desktop\Systemutveckling\År 1\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+C:\Users\Marcu\Desktop\Systemutveckling\År 1\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+C:\Users\Marcu\Desktop\Systemutveckling\År 1\test\bin\Debug\netcoreapp3.1\test.dll
+C:\Users\Marcu\Desktop\Systemutveckling\År 1\test\bin\Debug\netcoreapp3.1\test.pdb
+C:\Users\Marcu\Desktop\Systemutveckling\År 1\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+C:\Users\Marcu\Desktop\Systemutveckling\År 1\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+C:\Users\Marcu\Desktop\Systemutveckling\År 1\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+C:\Users\Marcu\Desktop\Systemutveckling\År 1\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+C:\Users\Marcu\Desktop\Systemutveckling\År 1\test\obj\Debug\netcoreapp3.1\test.dll
+C:\Users\Marcu\Desktop\Systemutveckling\År 1\test\obj\Debug\netcoreapp3.1\test.pdb
+C:\Users\Marcu\Desktop\Systemutveckling\År 1\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache
